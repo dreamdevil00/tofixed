@@ -1,0 +1,19 @@
+{
+  "name": "tofixed",
+  "version": "0.1.0",
+  "description": "make Number.prototype.toFixed consistent across any environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^23.6.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
